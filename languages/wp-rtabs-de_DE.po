@@ -1,0 +1,70 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2019-02-28 07:42+0500\n"
+"PO-Revision-Date: 2019-02-28 07:44+0500\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/wprtabs_inputs.php:2
+msgid "Delete"
+msgstr "Löschen"
+
+#: admin/wprtabs_inputs.php:4
+msgid "Title"
+msgstr "Titel"
+
+#: admin/wprtabs_inputs.php:8
+msgid "Description"
+msgstr "Beschreibung"
+
+#: admin/wprtabs_inputs.php:9 wprtabs.inc.php:144
+msgid "Note"
+msgstr "Hinweis"
+
+#: admin/wprtabs_inputs.php:9
+msgid ""
+"If you are using shortcodes inside, then it's recommended that you use "
+"shortcode only."
+msgstr ""
+"Wenn Sie Kurzwahlnummern verwenden, wird empfohlen, nur "
+"Kurzwahlnummern zu verwenden."
+
+#: admin/wprtabs_metabox.php:7
+msgid "Add Tab"
+msgstr "Tab hinzufügen"
+
+#: functions.php:63
+msgid "Try"
+msgstr "Versuchen"
+
+#: functions.php:64
+msgid "Go Premium"
+msgstr "Premium werden"
+
+#: wprtabs.inc.php:141
+msgid "Shortcode:"
+msgstr "Kurzcode:"
+
+#: wprtabs.inc.php:144
+msgid "Click here for more shortcodes"
+msgstr "Klicken Sie hier für weitere Kurzwahlen"
+
+#: wprtabs.inc.php:144
+msgid "You can copy/paste these shortcodes in description area and"
+msgstr ""
+"Sie können diese Kurzwahlen in den Beschreibungsbereich kopieren und "
+"einfügen"
+
+#: wprtabs.inc.php:144
+msgid "will display relevant pages/lists"
+msgstr "zeigt relevante Seiten / Listen an"
